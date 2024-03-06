@@ -1,7 +1,7 @@
 {
-  "name": "YouTube-Downloader",
+  "name": "RJ_YT_Downloader",
   "description": "A Telegrambot to download youtube video",
-  "repository": "https://github.com/tgbot-collection/ytdlbot",
+  "repository": "https://github.com/Rohan1885633/ytdlbot",
   "logo": "https://avatars.githubusercontent.com/u/73354211?s=200&v=4",
   "keywords": [
     "telegram",
@@ -10,19 +10,19 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "7035267465:AAFPIRRHAwQFRq6aApRNRep67XGGXn5Q2pc"
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "21593885"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "66c868b925a30a3deb21c300a69d1425"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "@ROHANKUMAR188",
       "required": false
     }
   },
